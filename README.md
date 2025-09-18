@@ -1,4 +1,4 @@
-# Mood-Booster-fun-hub
+
 # 🎉 Mood-Booster Fun Hub
 
 **Mood-Booster Fun Hub** is a fun and interactive web application designed to lift your mood.  
